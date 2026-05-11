@@ -171,13 +171,13 @@ npm install -g typescript
 ## Compile TypeScript File
 
 ```bash
-tsc index.ts
+tsc solutions.ts
 ```
 
 ## Run JavaScript File
 
 ```bash
-node index.js
+node solutions.js
 ```
 
 ---
